@@ -1,0 +1,14 @@
+.card-titles{
+    color:navy
+}
+.card-text{
+    text-align: center;
+    border: 80px;
+    padding: 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.file2{
+    background-color:lightgoldenrodyellow;
+}
